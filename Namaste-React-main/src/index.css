@@ -1,0 +1,14 @@
+/* .container{
+    border: 2px solid;
+    padding: 2rem;
+    background-color: aqua;
+}
+ */
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+
+ body {
+    margin: 0;
+    padding: 0;
+ }
