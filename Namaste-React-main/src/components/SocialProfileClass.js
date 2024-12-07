@@ -1,10 +1,9 @@
 import { Component } from "react";
-import { SiGmail, SiLinkedin, SiGithub, SiLeetcode } from "react-icons/si";
+import { SiGmail, SiLinkedin, SiGithub } from "react-icons/si";
 import {
     Github_Link,
     Email_Link,
     Linkedin_Link,
-    Leetcode_Link,
 } from "../config";
 
 class SocialProfileClass extends Component {
@@ -37,17 +36,6 @@ class SocialProfileClass extends Component {
                 >
                     <i>
                         <SiLinkedin title="Follow me on Linkedin" />
-                    </i>
-                </a>
-                <a
-                    href={Leetcode_Link}
-                    title="Checkout my Leetcode"
-                    className="flex items-center justify-center bg-[#000] rounded-full h-10 w-10 leading-10 overflow-y-hidden pointer text-white hover:scale-110"
-                    target="_blank"
-                    rel='noopener noreferrer'
-                >
-                    <i>
-                        <SiLeetcode title="Checkout my Leetcode" />
                     </i>
                 </a>
                 <a

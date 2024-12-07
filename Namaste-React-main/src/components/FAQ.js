@@ -23,7 +23,7 @@ const FAQ = () => {
             })}
             <div className="flex flex-col mt-6 items-center bg-slate-100 py-8 px-[12rem] rounded-3xl max-[650px]:px-0">
                 <div className=" text-black text-3xl mb-4 max-[430px]:text-xl">Still Have Questions?</div>
-                <div className="text-slate-400 text-center">Contact @karanjoshi9809@gmail.com for further queries</div>
+                <div className="text-slate-400 text-center">Contact @kathiriaabhistdy@gmail.com for further queries</div>
             </div>
         </div>
     );

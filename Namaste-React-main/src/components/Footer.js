@@ -5,17 +5,17 @@ const Footer = () => {
             Created By
             <i className="fa-solid fa-heart text-red-700 px-1"></i>
             <a
-                href="https://www.linkedin.com/in/karan-joshi-442696276/"
+                href="https://www.linkedin.com/in/abhikathiriya"
                 target="_blank"
-                title="Karan Joshi's Linkedin Profile"
+                title="Abhi Kathiriya's Linkedin Profile"
                 className="font-bold px-1"
             >
-                Karan Joshi
+                Abhi Kathiriya
             </a>
             <i className="fa-solid fa-copyright px-1"></i>
             {year}
             <a
-                href="https://github.com/Karanjoshi9809/Namaste-React"
+                href="https://github.com/abhikathiria/Namaste-React-main"
                 target="_blank"
                 title="Flavor Fusion Github Repository"
                 className="px-1"

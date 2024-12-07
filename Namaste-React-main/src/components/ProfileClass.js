@@ -76,16 +76,16 @@ class ProfileClass extends React.Component {
             <div className="flex flex-col justify-center items-center flex-wrap rounded-lg shadow-xl w-[40vw] p-10 max-[450px]:w-[50vw]">
                 <h1 className="text-2xl font-bold text-center">About Me</h1>
                 <div className="overflow-hidden self-center">
-                    <a href="https://github.com/Karanjoshi9809" className="my-6 flex items-center justify-center" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/abhikathiria" className="my-6 flex items-center justify-center" target="_blank" rel="noopener noreferrer">
                         <img
                             className="rounded-full h-40 w-40 shadow-md"
-                            src="https://avatars.githubusercontent.com/u/122138263?v=4"
-                            alt="Karanjoshi9809"
-                            title="github.com/Karanjoshi9809"
+                            src="https://avatars.githubusercontent.com/u/122340377?v=4"
+                            alt="abhikathiria"
+                            title="github.com/abhikathiria"
                         />
                     </a>
                     {console.log("Hi")}
-                    <p className="font-semibold mb-2 text-center">MERN Stack | JavaScript | DSA | Web Developer</p>
+                    <p className="font-semibold mb-2 text-center">JavaScript | DSA | Web | Game Developer</p>
                     <SocialProfileClass />
                 </div>
             </div>

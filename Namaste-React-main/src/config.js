@@ -908,7 +908,6 @@ export const restaurantList = [
     }
 ];
 
-export const Linkedin_Link = "https://www.linkedin.com/in/karan-joshi-442696276/";
-export const Leetcode_Link = "https://leetcode.com/u/KaranJ9809/";
-export const Github_Link = "https://github.com/Karanjoshi9809";
-export const Email_Link = "mailto:karanjoshi9809@gmail.com";
+export const Linkedin_Link = "https://www.linkedin.com/in/abhikathiriya";
+export const Github_Link = "https://github.com/abhikathiria";
+export const Email_Link = "mailto:kathiriaabhistdy@gmail.com";
